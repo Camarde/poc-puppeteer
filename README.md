@@ -5,6 +5,10 @@ To use Puppeteer in your project, run:
     npm i puppeteer
     # or "yarn add puppeteer"
 
+To run the test use
+
+    node poc.js
+
 [Puppeteer API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md)
 
 ## Pro:
